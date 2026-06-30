@@ -1,5 +1,6 @@
 # TheWorld — Second Brain Vault Template
-![[30-Resources/u38_Paint_a_picture_of_the_internal_psychic_warfare_where_amb_755a4917-4c17-40bc-8e48-5dc34c450af7_2.png]]
+![[30-Resources/u38_Paint_a_picture_of_the_internal_psychic_warfare_where_amb_755a4917-4c17-40bc-8e48-5dc34c450af7_2.png]]]
+
 A structured Obsidian second brain built on the PARA method, powered by a Claude Projects + Ollama + Gemini research pipeline.
 
 ---
