@@ -1,0 +1,21 @@
+# Obsidian runtime files — do not commit
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code session data
+.claude/
+
+# Personal notes — ignore content, keep folder structure
+00-Inbox/*.md
+10-Projects/*.md
+20-Areas/*.md
+30-Resources/*.md
+40-Archive/*.md
+60-ClaudeProjects/imports/*.md
+60-ClaudeProjects/sessions/*.md
+90-Meta/Handoffs/*.md
